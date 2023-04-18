@@ -1,7 +1,7 @@
 # Simple android TodoList in kotlin : 
 
-- Youtube video : https://youtu.be/BBWyXo-3JGQ
+- Youtube video : https://youtu.be/BBWyXo-3JGQ 
 
-- Original github repo : https://github.com/T0jal/kotlinToDoListApp
+- Original github repositories : https://github.com/T0jal/kotlinToDoListApp & https://github.com/philipplackner/TodoList
 
   
