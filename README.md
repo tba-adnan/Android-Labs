@@ -1,4 +1,4 @@
-# Simlple android TodoList in kotlin : 
+# Simple android TodoList in kotlin : 
 
 - Youtube video : https://youtu.be/BBWyXo-3JGQ
 
